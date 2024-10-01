@@ -1,7 +1,7 @@
 # Belajar Image Classification
 
 - Pertemuan 1 : **Basic Neural Network**
-    - Intro to Neural Network (Basic Formula, Layer, Activation & Loss Function)
+    - Intro to Neural Network (Basic Concept, Layer, Activation & Loss Function)
     - Train Simple Neural Network using Pytorch on MNIST Dataset
     - Model Evaluation (Accuracy, Precision, Recall & Confusion Matrix)<br><br>
 - Pertemuan 2 : **Neural Network Optimization**
