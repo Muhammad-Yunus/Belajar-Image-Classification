@@ -1,6 +1,6 @@
 # Belajar Image Classification
 
-- Pertemuan 1 : **Basic Neural Network**
+- Pertemuan 1 : **Basic Neural Network** [View](https://github.com/Muhammad-Yunus/Belajar-Image-Classification/tree/main/Pertemuan%201)
     - Intro to Neural Network (Basic Concept, Layer, Activation & Loss Function)
     - Train Simple Neural Network using Pytorch on MNIST Dataset
     - Model Evaluation (Accuracy, Precision, Recall & Confusion Matrix)<br><br>
