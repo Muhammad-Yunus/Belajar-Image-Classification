@@ -4,7 +4,7 @@
     - Intro to Neural Network (Basic Concept, Layer, Activation & Loss Function)
     - Train Simple Neural Network using Pytorch on MNIST Dataset
     - Model Evaluation (Accuracy, Precision, Recall & Confusion Matrix)<br><br>
-- Pertemuan 2 : **Neural Network Optimization**
+- Pertemuan 2 : **Neural Network Optimization** [[View]](https://github.com/Muhammad-Yunus/Belajar-Image-Classification/tree/main/Pertemuan%202)
     - Experiment with Neural Network (Adding Layer & Change Activation)
     - Intro to Neural Network Optimizer
     - Experiment with Neural Network (Change Optimizer & Learning Rate Decay)
