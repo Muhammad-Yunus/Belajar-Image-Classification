@@ -10,7 +10,7 @@
     - Experiment with Neural Network (Change Optimizer & Learning Rate Decay)
     - Intro to Dropout Layer & Training Overfitting 
     - Experiment Handling Overfitting using Dropout Layer<br><br>
-- Pertemuan 3 : **Basic Convolution Neural Network (CNN)**
+- Pertemuan 3 : **Basic Convolution Neural Network (CNN)** [[View]](https://github.com/Muhammad-Yunus/Belajar-Image-Classification/tree/main/Pertemuan%203)
     - Intro to Convolution Neural Network
     - Train Simple CNN using Pytorch on MNIST Dataset
     - Experiment Adding Dropout Layer to CNN
