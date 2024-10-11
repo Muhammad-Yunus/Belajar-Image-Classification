@@ -16,7 +16,7 @@
     - Experiment Adding Dropout Layer to CNN
     - Intro to Batch Normalization Layer
     - Experiment Adding Batch Normalization Layer to CNN<br><br>
-- Pertemuan 4 : **CNN with Attention Mechanism**
+- Pertemuan 4 : **CNN with Attention Mechanism** [[View]](https://github.com/Muhammad-Yunus/Belajar-Image-Classification/tree/main/Pertemuan%204)
     - Intro to Attention Mechanism
     - Train Simple CNN with Attention using Pytorch on MNIST Dataset
     - Intro to Channel based Attention : Squeeze and Excitation layers
