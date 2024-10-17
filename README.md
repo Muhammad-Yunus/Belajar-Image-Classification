@@ -21,10 +21,10 @@
     - Train Simple CNN with Attention using Pytorch on MNIST Dataset
     - Intro to Channel based Attention : Squeeze and Excitation layers
     - Implement Simple CNN with Squeeze and Excitation layers in Pytorch<br><br>
-- Pertemuan 5 : **Intro to CNN based Image Classification Model**
-    - Intro CNN Image Classification Model (Resnet, VGG, EfficientNet)
+- Pertemuan 5 : **Intro to CNN based Image Classification Model** [[View]](https://github.com/Muhammad-Yunus/Belajar-Image-Classification/tree/main/Pertemuan%205)
+    - Intro Deep Learning Image Classification Model (Resnet, VGG, EfficientNet, ViT, etc.)
     - Intro to TorchHub
-    - Inference EfficientNet with or Without Channel Attention Squeeze and Excitation<br><br>
+    - Transfer Learning ResNet-18 w/ow SE Block using Torchvision<br><br>
 - Pertemuan 6 : **Transfer Learning on CNN based Image Classification Model**
     - Intro Image Classification Dataset
-    - Transfer Learning EfficientNet using Torchvision with or Without Channel Attention Squeeze and Excitation
+    - Transfer Learning EfficientNet w/ow SE Block using Torchvision
