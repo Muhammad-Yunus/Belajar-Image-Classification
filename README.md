@@ -26,5 +26,5 @@
     - Experiment with Residual Block of ResNet Model Architecture
     - Intro to PyTorch Hub & ResNet-18 Pretrained Model<br><br>
 - Pertemuan 6 : **Transfer Learning on CNN based Image Classification Model**
-    - Intro Image Classification Dataset
-    - Transfer Learning EfficientNet w/ow SE Block using Torchvision
+    - Transfer Learning ResNet-34 using Apple2Orange Dataset
+    - Transfer Learning ResNet-152 w/ow SE Block using Apple2Orange Dataset
