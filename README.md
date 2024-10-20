@@ -23,8 +23,8 @@
     - Implement Simple CNN with Squeeze and Excitation layers in Pytorch<br><br>
 - Pertemuan 5 : **Intro to CNN based Image Classification Model** [[View]](https://github.com/Muhammad-Yunus/Belajar-Image-Classification/tree/main/Pertemuan%205)
     - Intro Deep Learning Image Classification Model (Resnet, VGG, EfficientNet, ViT, etc.)
-    - Intro to TorchHub
-    - Transfer Learning ResNet-18 w/ow SE Block using Torchvision<br><br>
+    - Intro to PyTorch Hub & ResNet-18 Pretrained Model
+    - Experiment with Residual Block of ResNet Model Architecture<br><br>
 - Pertemuan 6 : **Transfer Learning on CNN based Image Classification Model**
     - Intro Image Classification Dataset
     - Transfer Learning EfficientNet w/ow SE Block using Torchvision
