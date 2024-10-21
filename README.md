@@ -27,4 +27,5 @@
     - Intro to PyTorch Hub & ResNet-18 Pretrained Model<br><br>
 - Pertemuan 6 : **Transfer Learning on CNN based Image Classification Model**
     - Transfer Learning ResNet-34 using Apple2Orange Dataset
-    - Transfer Learning ResNet-152 w/ow SE Block using Apple2Orange Dataset
+    - Transfer Learning ResNet-152 using Apple2Orange Dataset
+    - Transfer Learning SE-ResNeXt-101 using Apple2Orange Dataset
