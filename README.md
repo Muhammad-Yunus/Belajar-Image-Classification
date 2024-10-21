@@ -22,7 +22,7 @@
     - Intro to Channel based Attention : Squeeze and Excitation layers
     - Implement Simple CNN with Squeeze and Excitation layers in Pytorch<br><br>
 - Pertemuan 5 : **Intro to CNN based Image Classification Model** [[View]](https://github.com/Muhammad-Yunus/Belajar-Image-Classification/tree/main/Pertemuan%205)
-    - Intro Deep Learning Image Classification Model (Resnet, VGG, EfficientNet, ViT, etc.)
+    - Intro Deep Learning Image Classification Model (GoogLeNet, Resnet, ResNeXt, EfficientNet, ViT, etc.)
     - Experiment with Residual Block of ResNet Model Architecture
     - Intro to PyTorch Hub & ResNet-18 Pretrained Model<br><br>
 - Pertemuan 6 : **Transfer Learning on CNN based Image Classification Model** [[View]](https://github.com/Muhammad-Yunus/Belajar-Image-Classification/tree/main/Pertemuan%206)
