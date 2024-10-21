@@ -18,9 +18,10 @@
     - Experiment Adding Batch Normalization Layer to CNN<br><br>
 - Pertemuan 4 : **CNN with Attention Mechanism** [[View]](https://github.com/Muhammad-Yunus/Belajar-Image-Classification/tree/main/Pertemuan%204)
     - Intro to Attention Mechanism
-    - Train Simple CNN with Attention using Pytorch on MNIST Dataset
-    - Intro to Channel based Attention : Squeeze and Excitation layers
-    - Implement Simple CNN with Squeeze and Excitation layers in Pytorch<br><br>
+    - Intro to Channel Attention : Squeeze and Excitation Block
+    - Intro to Spatial Attention : Self Attention & Multi-head Attention
+    - Experiment to recalibrate feature map using Squeeze and Excitation Block in Pytorch
+    - Experiment to recalibrate feature map using Self Attension in Pytorch<br><br>
 - Pertemuan 5 : **Intro to CNN based Image Classification Model** [[View]](https://github.com/Muhammad-Yunus/Belajar-Image-Classification/tree/main/Pertemuan%205)
     - Intro Deep Learning Image Classification Model (GoogLeNet, Resnet, ResNeXt, EfficientNet, ViT, etc.)
     - Experiment with Residual Block of ResNet Model Architecture
